@@ -1,11 +1,13 @@
 # Tweet Corpora
 
 <h3>Data Format:</h3>
-<li>Delimiter: Tab</li>
-<li>Description of Fields:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st field: Tweet id<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd field: Annotation (Is PET?)<br />
-</li>
+<ul>
+  <li>Delimiter: Tab</li>
+  <li>Description of Fields:<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st field: Tweet id<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd field: Annotation (Is PET?)<br />
+  </li>
+</ul>
 
 <h3>Suggested Download Tool:</h3>
 The original tweets may be obtained using the code snippet like download_tweets.py in http://diego.asu.edu/downloads/publications/ADRMine/download_tweets.zip.
