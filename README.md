@@ -3,8 +3,8 @@
 <h3>Data Format</h3>
 <li>Delimiter: Tab</li>
 <li>Description of Fields:<br />
-1st field: Tweet id<br />
-2nd field: Annotation (Is PET?)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st field: Tweet id<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd field: Annotation (Is PET?)<br />
 </li>
 
 <h3>Suggested Download Tool</h3>
