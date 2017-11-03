@@ -1,6 +1,6 @@
 # Tweet Corpora
 
-<h3>Data Format:</h3>
+### Data Format:
 <ul>
   <li>Delimiter: Tab</li>
   <li>Description of Fields:<br />
@@ -9,13 +9,14 @@
   </li>
 </ul>
 
-<h3>Suggested Download Tool:</h3>
+### <h3>Suggested Download Tool:
 The original tweets may be obtained using the code snippet like download_tweets.py in http://diego.asu.edu/downloads/publications/ADRMine/download_tweets.zip.
 
-<h3>Dietary Supplement Corpus:</h3>
-https://github.com/medeffects/tweet_corpora/blob/master/SupplementTweetCorpus8770-20160704.csv
+### Dietary Supplement Corpus:
+https://github.com/medeffects/tweet_corpora/blob/master/SupplementTweetCorpus8770-20160704.csv<br />
+Reference: Jiang, K., Calix, R., & Gupta, M. (2016). Construction of a Personal Experience Tweet Corpus for Health Surveillance. In *Proceedings of the 15th Workshop on Biomedical Natural Language Processing* (pp. 128-135). http://www.aclweb.org/anthology/W16-2917
 
-<h3>Medicine Corpus:</h3>
+### Medicine Corpus:
 Training Set: https://github.com/medeffects/tweet_corpora/blob/master/MedicineCorpusTrainingSet8612-20170501.csv<br />
 Test Set: https://github.com/medeffects/tweet_corpora/blob/master/MedicineCorpusTestSet3719-20170501.csv
 
