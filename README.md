@@ -9,7 +9,7 @@
   </li>
 </ul>
 
-### <h3>Suggested Download Tool:
+### <h3>Suggested Downloading Tool:
 The original tweets may be obtained using the code snippet like download_tweets.py in http://diego.asu.edu/downloads/publications/ADRMine/download_tweets.zip.
 
 ### Dietary Supplement Corpus:
