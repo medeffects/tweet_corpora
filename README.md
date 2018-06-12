@@ -19,4 +19,4 @@ The original tweets may be obtained using the code snippet like download_tweets.
 ### Medicine Corpus:
 **Training Set** (8612 tweets): https://github.com/medeffects/tweet_corpora/blob/master/MedicineCorpusTrainingSet8612-20170501.csv<br />
 **Test Set** (3719 tweets): https://github.com/medeffects/tweet_corpora/blob/master/MedicineCorpusTestSet3719-20170501.csv
-**Reference**: Jiang, K., Feng, S., Calix, R.A., & Gupta, M., Bernard, G.R. (2018). Identifying Tweets of Personal Health Experience through Word Embedding and LTSM. In *BMC Bioinformatics* (To appear).
+**Reference**: Jiang, K., Feng, S., Calix, R.A., & Gupta, M., Bernard, G.R. (2018). Identifying Tweets of Personal Health Experience through Word Embedding and LTSM. In *BMC Bioinformatics* 201819(Suppl 8):210. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2198-y.
